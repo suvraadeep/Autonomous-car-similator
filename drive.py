@@ -7,6 +7,7 @@ import base64
 from io import BytesIO
 from PIL import Image
 import cv2
+import tensorflow as tf
  
 sio = socketio.Server()
  

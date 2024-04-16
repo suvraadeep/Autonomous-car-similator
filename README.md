@@ -10,7 +10,7 @@ https://github.com/udacity/self-driving-car-sim
 ```
 2. You can create your own dataset or you can download from 
 ```bash
-!git clone https://github.com/rslim087a/track`
+git clone https://github.com/rslim087a/track`
 ```
 or
 ```bash
@@ -40,7 +40,7 @@ Fully connected: neurons: 1 (output)`
 
 
 # Demo Video
-
+https://github.com/suvraadeep/Autonomous-car-similator/assets/154406386/81197765-c175-46d9-9550-2d924ddd2e7b
 
 
 # Paper Link

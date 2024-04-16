@@ -34,9 +34,9 @@ Drop out (0.5)
 Fully connected: neurons: 100, activation: ELU
 Fully connected: neurons: 50, activation: ELU
 Fully connected: neurons: 10, activation: ELU
-Fully connected: neurons: 1 (output)`
+y connected: neurons: 1 (output)`
 ```
-
+Full<img width="601" alt="model-achitecture" src="https://github.com/suvraadeep/Autonomous-car-similator/assets/154406386/29e71ffc-4c8d-4034-bd55-36bd48e91d3c">
 # Demo Video
 
 
